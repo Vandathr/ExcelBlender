@@ -1,0 +1,17 @@
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\bin\Debug\net6.0-windows\QRDataExtractor.exe
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\bin\Debug\net6.0-windows\QRDataExtractor.deps.json
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\bin\Debug\net6.0-windows\QRDataExtractor.runtimeconfig.json
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\bin\Debug\net6.0-windows\QRDataExtractor.dll
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\bin\Debug\net6.0-windows\QRDataExtractor.pdb
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\QRDataExtractor.csproj.AssemblyReference.cache
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\QRDataExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\QRDataExtractor.AssemblyInfoInputs.cache
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\QRDataExtractor.AssemblyInfo.cs
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\QRDataExtractor.csproj.CoreCompileInputs.cache
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\QRDataExtractor.dll
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\refint\QRDataExtractor.dll
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\QRDataExtractor.pdb
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\QRDataExtractor.genruntimeconfig.cache
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\ref\QRDataExtractor.dll
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\murtazinif\source\repos\QRDataExtractor\QRDataExtractor\obj\Debug\net6.0-windows\QRDataExtractor.csproj.ResolveComReference.cache
